@@ -1,0 +1,14 @@
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\bin\Release\ElderlyCare.exe.config
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\bin\Release\ElderlyCare.exe
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\bin\Release\ElderlyCare.pdb
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\MainWindow.g.cs
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\App.g.cs
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\ElderlyCare_MarkupCompile.cache
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\ElderlyCare_MarkupCompile.lref
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\MainWindow.baml
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\ElderlyCare.g.resources
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\ElderlyCare.Properties.Resources.resources
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\ElderlyCare.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\ElderlyCare.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\ElderlyCare.exe
+C:\Users\alpag\source\repos\ElderlyCare\ElderlyCare\obj\Release\ElderlyCare.pdb
