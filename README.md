@@ -12,3 +12,5 @@ Please download the executable in https://github.com/alpaddesai/ElderlyCare/rele
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
+
+Additional details reference: https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel
