@@ -15,4 +15,4 @@ Please download the executable in https://github.com/alpaddesai/ElderlyCare/rele
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference: https://github.com/alpaddesai/RealEstatePortfolioIdea2022
+Additional details reference: https://github.com/alpaddesai/RealEstatePortfolioIdea
