@@ -8,8 +8,6 @@ Please download the executable in https://github.com/alpaddesai/ElderlyCare/rele
 
 ![image](ElderlyCare.png)
 
-![image](CriminalLaw1.jpg)
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
